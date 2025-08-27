@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{299A6178-C1EA-4DC4-A017-CCB3AF15B60E}|InventorySystem.vcxproj|solutionrelative:Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Item.cpp",
               "DocumentMoniker": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.cpp",
               "RelativeDocumentMoniker": "Item.cpp",
               "ToolTip": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.cpp",
               "RelativeToolTip": "Item.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-25T10:26:26.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Item.h",
               "DocumentMoniker": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.h",
               "RelativeDocumentMoniker": "Item.h",
               "ToolTip": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Item.h",
               "RelativeToolTip": "Item.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-25T08:34:49.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-25T05:55:45.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Inventory.cpp",
               "DocumentMoniker": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.cpp",
               "RelativeDocumentMoniker": "Inventory.cpp",
               "ToolTip": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.cpp",
               "RelativeToolTip": "Inventory.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-25T02:27:54.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Inventory.h",
               "DocumentMoniker": "C:\\Users\\Lee Donggyu\\source\\repos\\InventorySystem\\Inventory.h",
               "RelativeDocumentMoniker": "Inventory.h",

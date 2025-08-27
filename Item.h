@@ -8,16 +8,16 @@ protected:
 	string name_;
 	double price_;
 public:
+	Item();
 	Item(string name_ = "default", double price_ = 1000);
-	~Item();
 
 	// Getter
 	string GetName();
-	double GetPrice();
+	double GetPrice() const;
 
 	// Setter
 	void SetName(string name_);
 	void SetPrice(double price_);
 
-	void const PrintInfo();
+	void PrintInfo() const;
 };

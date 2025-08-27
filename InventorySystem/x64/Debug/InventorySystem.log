@@ -1,0 +1,14 @@
+﻿  Inventory.cpp
+  Item.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+main.obj : error LNK2019: "public: __cdecl Inventory<class Item>::Inventory<class Item>(int)" (??0?$Inventory@VItem@@@@QEAA@H@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: __cdecl Inventory<class Item>::Inventory<class Item>(class Inventory<class Item> const &)" (??0?$Inventory@VItem@@@@QEAA@AEBV0@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: __cdecl Inventory<class Item>::~Inventory<class Item>(void)" (??1?$Inventory@VItem@@@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: void __cdecl Inventory<class Item>::AddItem(class Item const &)" (?AddItem@?$Inventory@VItem@@@@QEAAXAEBVItem@@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: void __cdecl Inventory<class Item>::RemoveLastItem(void)" (?RemoveLastItem@?$Inventory@VItem@@@@QEAAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: int const __cdecl Inventory<class Item>::GetCapacity(void)" (?GetCapacity@?$Inventory@VItem@@@@QEAA?BHXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: void __cdecl Inventory<class Item>::PrintAllItems(void)" (?PrintAllItems@?$Inventory@VItem@@@@QEAAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: void __cdecl Inventory<class Item>::Resize(int)" (?Resize@?$Inventory@VItem@@@@QEAAXH@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: void __cdecl Inventory<class Item>::SortItems(void)" (?SortItems@?$Inventory@VItem@@@@QEAAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\Lee Donggyu\source\repos\InventorySystem\x64\Debug\InventorySystem.exe : fatal error LNK1120: 9개의 확인할 수 없는 외부 참조입니다.

@@ -4,13 +4,14 @@
 
 using namespace std;
 
-Item::Item(string name_ = "default", double price_ = 1000) {
-	this->name_ = name_;
-	this->price_ = price_;
+Item::Item() {
+	this->name_ = "";
+	this->price_ = 0;
 }
 
-Item::~Item() {
-
+Item::Item(string name_, double price_) {
+	this->name_ = name_;
+	this->price_ = price_;
 }
 
 // Getter
@@ -18,7 +19,7 @@ string Item::GetName() {
 	return name_;
 }
 
-double Item::GetPrice() {
+double Item::GetPrice() const{
 	return price_;
 }
 
@@ -31,6 +32,6 @@ void Item::SetPrice(double price_) {
 	this->price_ = price_;
 }
 
-void const Item::PrintInfo() {
+void Item::PrintInfo() const {
 	cout << "[이름: " << name_ << ", 가격: " << price_ << "G]" << endl;
 }
